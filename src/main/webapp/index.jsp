@@ -111,7 +111,7 @@
 
   <header>
     <h1>🚀 BahtitaConsulting IT Courses</h1>
-    <p>Upgrade your career with our industry-ready training programs with moderate fees</p>
+    <p>Upgrade your career with our industry-ready training programs</p>
   </header>
 
   <div class="container">
